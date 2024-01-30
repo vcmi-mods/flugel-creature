@@ -5,12 +5,18 @@
 	"contact" : "amurgul@protonmail.com",
 	"version" : "0.9.0",
 	"modType" : "Creatures",
-
+	"changelog" :
+	{
+		"0.9.0" : ["Initial release"]
+	},
+	"compatibility" :
+	{
+		"min" : "1.4.0"
+	},
 	"creatures" :
 	[
 		"creatures/neutral/flugel/flugel"
 	],
-
 	"objects" :
     [ 
     	"dwellings/neutral/flugel/flugel_dwell"
