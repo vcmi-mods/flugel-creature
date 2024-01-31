@@ -3,11 +3,19 @@
 	"description" : "A new neutral creature based on No Game No Life's Flugel race. Also my first H3 creature ever. Credit for the model goes to codealdnoah.",
 	"author" : "Fire Paladin",
 	"contact" : "amurgul@protonmail.com",
-	"version" : "0.9.0",
+	"version" : "0.9.1",
 	"modType" : "Creatures",
 	"changelog" :
 	{
-		"0.9.0" : ["Initial release"]
+		"0.9.0" : ["Initial release"],
+		"0.9.1" : ["Chinese translation by Rindlit"]
+	},
+	"chinese" : {
+		"name" : "天翼种",
+		"description" : "来自游戏人生（NO GAME NO LIFE）的全新中立生物天翼种，作者为Fire Paladin。该作品模型归功于codealdnoah。",
+		"translations" : [
+			"translation/flugel-creature/chinese.json"
+		]
 	},
 	"compatibility" :
 	{
