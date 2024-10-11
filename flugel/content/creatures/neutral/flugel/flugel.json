@@ -12,7 +12,7 @@
 		"cost" :
 		{
 			"gold" : 16000,
-			"gem" : 13
+			"gems" : 13
 		},	
 		"name" :
 		{
@@ -45,8 +45,7 @@
 			{
 				"walk" : 1,
 				"idle" : 10,
-				"attack" : 1,
-				"flight" : 1
+				"attack" : 1
 			}
 		},
 		"doubleWide" : true,
@@ -64,13 +63,13 @@
 			
 			"flight":
 			{
-				"type": "FLYING",
-				"subtype": 0
+				"type": "FLYING"
 			},
 
 			"slayer":
 			{
-				"type": "KING2"
+				"type": "KING",
+				"val" : 2
 			},
 			
 			"immuneToMind" : 
